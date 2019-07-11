@@ -8,7 +8,7 @@ Ejercicios-programacion-C05
 por lo cual podemos hacer esperar el padre y asi ejecutar primero el hijo, logrando lo propuesto en el punto. 
 
 4. las diferentes llamadas al sistema exec() se debe a que cada uno de ellas nos permite ingresar
-diferentes tipos de argumentos, teniendo la libertad de poder ingresar caminos mas comodos. (arg0 y envp del archivo ejcutable que deseamos reemplzar)
+diferentes tipos de argumentos, teniendo la libertad de poder ingresar caminos mas comodos. (arg0 y envp del archivo ejcutable que deseamos reemplazar)
 
 5. La funcion wait () da como respuesta el PID del proceso hijo cuando este varia su estado.
 Si wait() es utilizado en el proceso hijo, pero este no posee algun proceso hijo, la llamada de wait () no es tomada en consideracion, por ende continuara su ejecucion, debido a que no se encontrara el proceso hijo al cual se dio la orden de esperar.
