@@ -1,0 +1,10 @@
+escribiendo desde el padre: 0
+escribiendo desde el padre: 1
+escribiendo desde el padre: 2
+escribiendo desde el padre: 3
+escribiendo desde el padre: 4
+Escribiendo desde el niño: 0
+Escribiendo desde el niño: 1
+Escribiendo desde el niño: 2
+Escribiendo desde el niño: 3
+Escribiendo desde el niño: 4
