@@ -1,0 +1,4 @@
+./simple
+echo hola
+dir
+echo final batch
