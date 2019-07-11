@@ -1,7 +1,7 @@
 Ejercicios-programacion-C05
-1. El valor de variable del proceso hijo es igual al declarado inicialmente, antes de ser llamdo el hijo mediente fork. Mediante el programa que desarollamos pudimos evidenciar que la variable puede tomar diferentes valores en cada proceso, es decir hay un x diferente en cada proceso.
+1. El valor de variable del proceso hijo es igual al declarado inicialmente, antes de ser llamado mediante el fork. Por medio del programa que desarollamos pudimos evidenciar que la variable toma diferentes valores en cada proceso, es decir hay un x diferente en cada proceso.
 
-2. Al tratar de escribir al mismo tiempo el padre como el hijo en el archivo nuevo, lo que va a pasar
+2. Al tratar de escribir al mismo tiempo, el padre como el hijo en el archivo nuevo lo que va a pasar
  es que se tomara como priodad el proceso padre y luego se ejecutara el proceso hijo. 
 
 3. En este programa se hizo uso del comondo sleep(#) que realmente hace es parar un determinado tiempo #
