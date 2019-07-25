@@ -1,6 +1,6 @@
-pregunta 1.
+pregunta 1.no me alcanzo el tiempo para medir los tiempos pero deje el programa 
 
-pregunta 2.
+pregunta 2.cre dos hilos aparte y luego los llame en el programa principal donde jecute todo
 
 pregunta 3.para este punto hize uso de las funciones (wait, waitpid y waitid) logrando asi que siempre se ejecute primero el padre atraves
 de estructuras if y else.
