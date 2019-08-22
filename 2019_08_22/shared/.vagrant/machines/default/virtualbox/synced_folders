@@ -1,0 +1,1 @@
+{"virtualbox":{"/tmp":{"guestpath":"/tmp","hostpath":"/home/invitado/2019-SO-Electronica--1830760-/2019_08_22/shared/demo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/invitado/2019-SO-Electronica--1830760-/2019_08_22/shared","disabled":false,"__vagrantfile":true}}}
